@@ -12,10 +12,9 @@
 
 ### Day 1: May 29, 2023
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Started an e-commerce app in react native to keep my app development skills sharp i guess. I spent a bunch of time trying to get expo router to work, it proved futile so i just stuck with react navigation. I managed to finish the first page(boarding screen) in the app
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I've realised that i very much prefer mobile development to web development. Web development seems a lot more convoluted compared to mobile deelopment. I hope i can get a job with either tho, I really need to start doing well.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
