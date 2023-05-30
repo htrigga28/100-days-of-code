@@ -18,3 +18,11 @@
 
 **Link(s) to work**
 
+### Day 2: May 30, 2023
+
+**Today's Progress**: I built out the sign in and sign up pages and switched stack navigators fromreact navigatoin native stack to react naviagtion stack because it has better typing. i also made a util function for error handling in forms and implemented error handling on both screens i did
+
+**Thoughts**:I honestly have no idea why i've been coding for 6 hours, i'm updating this log by 9pm, I really want to get better at this. Tomorrow i plan to start the main home page and maybe the API backend for the app. I'm hoping for strength, i want to make a lot of progress. Bye now❤️
+
+**Link(s) to work**
+
