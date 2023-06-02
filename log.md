@@ -26,3 +26,21 @@
 
 **Link(s) to work**
 
+### Day 3: May 31, 2023
+
+**Today's Progress**: i practiced a little bit of node js and tested my hands at creating an api
+
+**Thoughts**:i spent most of this day working on trakka and had very little time to work on node js, but i still got a little bit of work done
+
+### Day 4: June 1, 2023
+
+**Today's Progress**: Created my first authentication rest api, spent a bunch of time coding it out and trying to understand how node works and what to and what not to do when setting up a project.
+
+
+### Day 5:June 2, 2023
+
+**Today's Progress**: I reworked the api i built on day 4 and made it work with cookies and sesstion tokens, i also played around with a bunch of cryptography, ways to secruely hash passwords ad store them and the lieks, it was a pretty fun day tbh.
+
+
+
+
